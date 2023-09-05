@@ -1,0 +1,6 @@
+{
+	"twitter_client_id": "CLIENT_ID",
+	"twitter_client_secret": "CLIENT_SECRET",
+	"twitter_redirect_uri": "http://localhost:3000/twitter/redirect",
+	"twitter_scopes": ["tweet.write", "tweet.read", "users.read", "offline.access"]
+}
